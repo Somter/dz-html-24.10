@@ -1,0 +1,17 @@
+body{
+    font-family: sans-serif;
+    background-color: whitesmoke;
+}
+
+.Contents{
+border: 2px solid black;
+margin-right: 70%;
+margin-top: 15px;
+padding: 15px;
+background-color: rgb(226, 223, 223);
+}
+
+.Contents div{
+    text-align: center;
+    font-weight: bold;  
+}
